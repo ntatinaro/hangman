@@ -63,12 +63,6 @@ def stage(n):
     else:
         print(stage0)
 
-
-
-
-
-
-
 def hangaman(word):
     wrong = 0
     wordlist = []
