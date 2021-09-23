@@ -1,3 +1,6 @@
+#https://github.com/ntatinaro/hangman/blob/main/hangman.py
+
+
 def stage(n):
     stage6= """
           _____      
